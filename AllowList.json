@@ -1,0 +1,21 @@
+{
+    "python": [
+        "*.pythonhosted.org",
+        "*.python.org",
+        "*.pypi.org",
+        "*.repl.it",
+        "repl.it"
+    ],
+    "go": [
+        "*.golang.org",
+        "*.gopkg.in",
+        "gopkg.in"
+    ],
+    "microsoft": [
+        "*.azure.com",
+        "*.visualstudio.com",
+        "*.vsassets.io",
+        "*.microsoftonline.com",
+        "*.live.com"
+    ]
+}
